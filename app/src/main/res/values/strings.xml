@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CAMovil</string>
+    <string name="camera">Camera</string>
+    <string name="flash">flash</string>
+    <string name="imagepreview">imagePreview</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+</resources>
